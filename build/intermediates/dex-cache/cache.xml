@@ -1,2 +1,222 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/home/kipkoech/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_9fca45d55c75d2f79a75cd786ca7c504597cf0eb/classes.dex" />
+    </item>
+    <item
+        jar="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_8a726f3ac8015ae8d19e8774c0b518748111de55/classes.dex" />
+    </item>
+    <item
+        jar="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f59bc8c0595855d8f786f63b3e322e653116988a">
+        <dex dex="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_05591da4d27b846cca1f6df3044af384118f92f0/classes.dex" />
+    </item>
+    <item
+        jar="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_9284b0179453121a4fc13d8244bd87696cad4925/classes.dex" />
+    </item>
+    <item
+        jar="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_c2ae9c1d4e59fdbf8a79191ebf3bd4dc475ff503/classes.dex" />
+    </item>
+    <item
+        jar="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/2.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6b57821de6e2cbd036be860fea35812a413a3a9d">
+        <dex dex="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.twitter.sdk.android-tweet-composer-2.0.0_8f1347aae4134319c30968b201aa203de7ddd1e2/classes.dex" />
+    </item>
+    <item
+        jar="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_62138b583e7ac3d1fbb4fba63c1cd245877059a3/classes.dex" />
+    </item>
+    <item
+        jar="/home/kipkoech/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.2_5e8b2e897fd3f21fcb710324af408dafa0a3e87e/classes.dex" />
+    </item>
+    <item
+        jar="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/2.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="933ee15f1696c3583a97e6f6d6662a97f0d2019d">
+        <dex dex="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.twitter.sdk.android-twitter-core-2.0.0_10d8cfcbdb103252b66829165ac0c89403d876c8/classes.dex" />
+    </item>
+    <item
+        jar="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.0_011e00574ad96bbd44a8cfb28eded45cd8535a07/classes.dex" />
+    </item>
+    <item
+        jar="/home/kipkoech/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_5c9897964584642468dd660fe4953a30a560d451/classes.dex" />
+    </item>
+    <item
+        jar="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.13/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="23e3acde10f4cf52778f8dc88107fb96459f2392">
+        <dex dex="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.fabric.sdk.android-fabric-1.3.13_bc591c85b60d0be4bdac88a815b7f7a48de5e951/classes.dex" />
+    </item>
+    <item
+        jar="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.0_44fcef7d65d85f80f717148457a2237b2a9870b2/classes.dex" />
+    </item>
+    <item
+        jar="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter/2.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="79f10814ccc3cf45cd5c1d566a3f6b5bcf7c1562">
+        <dex dex="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.twitter.sdk.android-twitter-2.0.0_897d043a1399688fdd94edf54015b3b63cbd575f/classes.dex" />
+    </item>
+    <item
+        jar="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_dab3c07dedb6dde46b02895ca573ed028240b464/classes.dex" />
+    </item>
+    <item
+        jar="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_2cd0afcceb7c8378c976ba532410f4bfe831d257/classes.dex" />
+    </item>
+    <item
+        jar="/home/kipkoech/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_4f70cf7f40d9c8d37808307eafe43d877100c458/classes.dex" />
+    </item>
+    <item
+        jar="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_2e4b92cf49d38d66fee23b2fb2e30bbe74e67e8a/classes.dex" />
+    </item>
+    <item
+        jar="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_0d3c2d6a0887a6842f06c6b019b65518347cbd75/classes.dex" />
+    </item>
+    <item
+        jar="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_c1c8d60861f11b86d16b209f79ef0405bcb5197e/classes.dex" />
+    </item>
+    <item
+        jar="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b0424f06fdb2897efee7b4cf999c60e0b1bbfe50">
+        <dex dex="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.twitter.sdk.android-tweet-ui-2.0.0_c612a68f10fb9d2ade185e8cab95dd7979c31f4a/classes.dex" />
+    </item>
+    <item
+        jar="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_a5c8bfb3d3917d342d8dd62bd1edc4aa5f8d2043/classes.dex" />
+    </item>
+    <item
+        jar="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="32df5af981c1ccca9ca908d60c69006da8d5a38e">
+        <dex dex="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_70e4984363a96a53ef479a8138068744c38334b1/classes.dex" />
+    </item>
+    <item
+        jar="/home/kipkoech/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.1_1b26e49189b49c641fa3b3ed41723367264d024c/classes.dex" />
+    </item>
+    <item
+        jar="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_7d25e56c13fecbb79474e3143050c72c30e8c690/classes.dex" />
+    </item>
+    <item
+        jar="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_7a6caa9070babbb6c40c272ad0226645249381dd/classes.dex" />
+    </item>
+    <item
+        jar="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_a8bcfbcdb321ce95a567a0b344c64c3f35d8427a/classes.dex" />
+    </item>
+    <item
+        jar="/home/kipkoech/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_2af50bb6e90cd14e1b0044f077fd2c5e21d19a7b/classes.dex" />
+    </item>
+    <item
+        jar="/home/kipkoech/.gradle/caches/modules-2/files-2.1/com.twitter/twitter-text/1.13.0/78415b95ae3184c5926d593feab64bfc0b73b2dd/twitter-text-1.13.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="78415b95ae3184c5926d593feab64bfc0b73b2dd">
+        <dex dex="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/twitter-text-1.13.0_28fecccc60c502014084e07e50a5127bde35b160/classes.dex" />
+    </item>
+    <item
+        jar="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_576cd3f2326a886b7a57e20e4e83fc940befb936/classes.dex" />
+    </item>
+    <item
+        jar="/home/kipkoech/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/home/kipkoech/AndroidStudioProjects/Schoolapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.2_2a8b3ca2f70a88bf263699ddf4913523a6d07ae0/classes.dex" />
+    </item>
+
+</items>
